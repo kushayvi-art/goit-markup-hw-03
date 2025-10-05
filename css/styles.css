@@ -243,7 +243,7 @@ img {
 
 /* #region Portfolio section */
 .portfolio-title {
-    margin-bottom: 72px;
+    margin: 0 auto 72px;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
