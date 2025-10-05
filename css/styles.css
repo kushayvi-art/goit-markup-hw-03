@@ -125,6 +125,7 @@ img {
 .hero {
     width: 1440px;
     margin: 0 auto;
+    padding: 188px 0;
     background-color: #2e2f42 ;
 }
 .container-hero {
@@ -149,6 +150,7 @@ img {
     min-height: 56px;
     border: none;
     display: block;
+    border-radius: 4px;
     padding: 16px 32px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
