@@ -127,12 +127,12 @@ img {
     margin: 0 auto;
     background-color: #2e2f42 ;
 }
-.hero-container {
-    padding: 188px 472px;
+.container-hero {
+    padding: 188px 0;
     text-align: center;
 }
 .hero-title {
-    width: 496px;
+    max-width: 496px;
     margin-bottom: 48px;
     font-weight: 700;
     font-size: 56px;
@@ -142,12 +142,13 @@ img {
     color: #ffffff;
 }
 .hero-wrapper {
-    align-items: center;
-    gap: 16px;
+     
 }
 .hero-but {
     min-width: 169px;
     min-height: 56px;
+    border: none;
+    display: block;
     padding: 16px 32px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
